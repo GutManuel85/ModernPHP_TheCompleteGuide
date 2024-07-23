@@ -12,7 +12,7 @@
 $categories = ['Programming', 'Business', 'Art & Drawing', 'Self improvment', 'History'];
 $categories[2] = 'Art and Drawing';
 
-$categories[] = 'Nature books';
+$categories[] = 'Nature books'; //append an entry at the last position
 
 // unset($categories[3]);
 
